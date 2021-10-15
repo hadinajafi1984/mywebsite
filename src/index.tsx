@@ -4,7 +4,8 @@ import "./index.css";
 import "./assets/css/plugins.css";
 import "./assets/css/style-demo.css";
 import "./assets/css/style-light.css";
-import $ from "jquery";
+import "./assets/css/blue-color.css";
+import "./assets/css/mystyle.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 
